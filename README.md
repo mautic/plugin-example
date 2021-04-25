@@ -1,3 +1,5 @@
+# ⚠️ Please use https://github.com/mautic/plugin-helloworld as this is now deprecated ⚠️ 
+
 [![Build Status](https://travis-ci.org/mautic/plugin-example.svg?branch=master)](https://travis-ci.org/mautic/plugin-example)
 
 # Mautic - Example Plugin
